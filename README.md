@@ -24,7 +24,7 @@ A modular, Python-based Windows debloating and optimization tool. Remove bloatwa
 ## Installation
 
 \`\`\`bash
-git clone https://github.com/PROISHAANin/windows-optimizer.git
+git clone https://github.com/PROISHAANin/Windows_Optimizer.git
 cd windows-optimizer
 \`\`\`
 
