@@ -1,0 +1,2 @@
+# No external dependencies — uses only Python standard library
+# (subprocess, winreg, ctypes, os, shutil, tempfile)
